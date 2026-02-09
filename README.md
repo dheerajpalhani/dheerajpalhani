@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dheerajpalhani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpalhani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophie
 ![](https://github-profile-trophy.vercel.app/?username=dheerajpalhani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
